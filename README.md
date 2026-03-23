@@ -5,7 +5,6 @@
 ### Level 3: Support TTL settings for records.
 ### Level 4: Support Look-back operations to retrieve values stored at a specific timestamp in the past.
 
-You need to complete each level to unlock/prceed to the next level.
 
 Interface Skeleton:
 
